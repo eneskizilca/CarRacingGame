@@ -1,0 +1,10 @@
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe.config
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.exe
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\bin\Debug\CarRacingGame.pdb
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csprojAssemblyReference.cache
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Form1.resources
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.Properties.Resources.resources
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.GenerateResource.cache
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.csproj.CoreCompileInputs.cache
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.exe
+C:\Users\Enes Kızılca\source\repos\CarRacingGame\CarRacingGame\obj\Debug\CarRacingGame.pdb
